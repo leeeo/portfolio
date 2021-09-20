@@ -173,7 +173,7 @@ textarea {
 .text-primary {
   color: #fff;
   font-size: 2.2rem;
-  text-align: center;
+  text-align: left;
   width: 100%;
   line-height: 1.6; }
   @media only screen and (max-width: 37.5em) {
